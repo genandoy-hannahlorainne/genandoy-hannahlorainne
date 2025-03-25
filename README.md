@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 A DIT (Diploma in Information Technology) student at Polytechnic University of the Philippines-Taguig<br>🌍 Love for: Korea & Thailand<br>📫 Connect with Me<br>💡 Always open to learning, collaborating, and working on exciting projects!<br>
+🏫 A DIT (Diploma in Information Technology) student at Polytechnic University of the Philippines-Taguig<br>🌍 ISFP-T <br>📫 Connect with Me<br>💡 Always open to learning, collaborating, and working on exciting projects!<br>
 
 
 ## 🌐 Socials:
