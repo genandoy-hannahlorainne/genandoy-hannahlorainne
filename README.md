@@ -30,7 +30,7 @@ Pomodify is a customizable Pomodoro productivity tracker designed to help users 
 
 - [🎯 Quick Start](#-quick-start)
 - [🚀 Features](#-features)
-- [�️T Tech Stack](#️-tech-stack)
+- [⚙️ Tech Stack](#️-tech-stack)
 - [🎨 Design System](#-design-system)
 - [📁 Project Structure](#-project-structure)
 - [�  Development](#-development)
@@ -43,11 +43,15 @@ Pomodify is a customizable Pomodoro productivity tracker designed to help users 
 
 <div align="center">
 
-### � [**kTry Pomodify Live**](https://pomodify.site/) 🌟
+### � [**Pomodify Live**](https://pomodify.site/) 🌟
 
-| 📧 Email | 🔑 Password |
-|:---:|:---:|
-| `johndoe@gmail.com` | `JohnDoe@123` |
+| Badge | � E mail | 🔑 Password |
+|:---:|:---|:---|
+| 1️⃣ | `hann000345@gmail.com` | `Pomodify@123` |
+| 2️⃣ | `simonejake@gmail.com` | `Pomodify@123` |
+| 3️⃣ | `ivandelumen@gmail.com` | `Pomodify@123` |
+| 4️⃣ | `danielvictorioso@gmail.com` | `Pomodify@123` |
+| 5️⃣ | `geraldkasan163@gmail.com` | `Pomodify@123` |
 
 </div>
 
@@ -59,7 +63,7 @@ Pomodify is a customizable Pomodoro productivity tracker designed to help users 
 |:---|:---|:---|
 | ⏱️ **Customizable Timers** | Flexible work/break sessions tailored to your needs | Angular + RxJS |
 | 🔐 **User Authentication** | Secure accounts with JWT & Spring Security | Spring Boot + JWT |
-| �️ e**Activity Grouping** | Organize sessions by category for better context | PostgreSQL + JPA |
+| 🎭 **Activity Grouping** | Organize sessions by category for better context | PostgreSQL + JPA |
 | 📊 **Session Tracking** | Log notes, view reports, and monitor progress | Angular Material |
 | 📱 **Responsive Design** | Seamless experience on web & mobile devices | SCSS + Angular |
 | 🤖 **AI Insights** | Smart suggestions and productivity analytics | Custom AI Integration |
@@ -81,7 +85,7 @@ Pomodify is a customizable Pomodoro productivity tracker designed to help users 
 └── 🏆 Achievement system
 
 🤖 AI Features
-├── � DSession suggestions
+├── ▶️ Session suggestions
 ├── 📝 Smart note-taking
 ├── 🎓 Learning blueprints
 └── 🔍 Pattern recognition
@@ -183,6 +187,7 @@ project-root/
 | Type | Purpose | Convention |
 |------|---------|-----------|
 | `main` | Production-ready code | `main` |
+| `staging` | Pre-production testing | `staging` |
 | `feature` | New features | `feature/descriptive-name` |
 | `bugfix` | Bug fixes | `bugfix/issue-description` |
 | `docs` | Documentation | `docs/what-changed` |
@@ -247,7 +252,7 @@ For detailed guides and technical docs, explore:
 
 <div align="center">
 
-### 🎉 Made with ❤️ by the PUP-BSIT G-Cache Team
+### 🎉 Developed by the PUPT-DIT 3 G-Cache Team
 
 ![Pomodify](https://img.shields.io/badge/🍅_Pomodify-Boost_Your_Focus-5FA9A4?style=for-the-badge&logoColor=white)
 
@@ -255,6 +260,7 @@ For detailed guides and technical docs, explore:
 
 [![Live App](https://img.shields.io/badge/🌐_Live_App-Visit_Now-success?style=for-the-badge)](https://pomodify.site/)
 [![Documentation](https://img.shields.io/badge/📖_Documentation-Read_Docs-blue?style=for-the-badge)](document/)
+[![Video Demo](https://img.shields.io/badge/🎥_Video_Demo-Watch_Walkthrough-FF0000?style=for-the-badge)](https://youtu.be/sMEqr4PYfWk)
 [![Issues](https://img.shields.io/badge/🐛_Issues-Report_Bug-red?style=for-the-badge)](https://github.com/PUP-BSIT/project-g-cache/issues)
 
 <br><br>
