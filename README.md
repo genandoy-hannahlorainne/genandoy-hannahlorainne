@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 A DIT (Diploma in Information Technology) student at Polytechnic University of the Philippines-Taguig<br>🌍 Love for: Korea & Thailand<br>📫 Connect with Me<br>💡 Always open to learning, collaborating, and working on exciting projects!<br>
+🏫 A DIT (Diploma in Information Technology) student at Polytechnic University of the Philippines-Taguig<br>📫 Connect with Me<br>💡 Always open to learning, collaborating, and working on exciting projects!<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@nothanya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@hann_.i) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hannahlorainnemgenandoy@gmail.com) 
