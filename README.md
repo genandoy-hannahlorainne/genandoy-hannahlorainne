@@ -2,7 +2,7 @@
 
 <img src="pomodify-frontend/src/images/logo.png" alt="Pomodify logo" width="280" />
 
-# 🍅 Pomodify
+# ⏲️ Pomodify
 ### *Your Smart Productivity Companion*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
@@ -33,7 +33,7 @@ Pomodify is a customizable Pomodoro productivity tracker designed to help users 
 - [⚙️ Tech Stack](#️-tech-stack)
 - [🎨 Design System](#-design-system)
 - [📁 Project Structure](#-project-structure)
-- [�  Development](#-development)
+- [🎯Development](#-development)
 - [🧑‍💻 Contributors](#-contributors)
 - [🤖 AI-Powered Features](#-ai-powered-features)
 
@@ -67,6 +67,7 @@ Pomodify is a customizable Pomodoro productivity tracker designed to help users 
 | 📊 **Session Tracking** | Log notes, view reports, and monitor progress | Angular Material |
 | 📱 **Responsive Design** | Seamless experience on web & mobile devices | SCSS + Angular |
 | 🤖 **AI Insights** | Smart suggestions and productivity analytics | Custom AI Integration |
+| 📲 **Progressive Web App** | Install as app and push notifications | PWA + Service Workers |
 
 <details>
 <summary><strong>🎯 Feature Highlights</strong></summary>
@@ -221,7 +222,7 @@ project-root/
 | **Hannah Lorainne Genandoy** | Project Manager / Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-lorainne-genandoy-3b8a1b2b2/) |
 | **Daniel Victorioso** | Technical Lead / Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-victorioso-304688292/) |
 | **Ivan Delumen** | UI/UX / Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-delumen-53982728a/) |
-| **Gerald Mamasalanang** | QA / Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-kasan-mamasalanang-95a306386) |
+| **Gerald Mamasalanang** | DevOps/ Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-kasan-mamasalanang-95a306386) |
 | **Simone Jake Reyes** | UI/UX / Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-jake-reyes-75199234a/) |
 
 </div>
@@ -235,7 +236,6 @@ Pomodify includes intelligent AI features to enhance productivity:
 - 🎯 **Session Suggestions** — Context-aware next-step recommendations for your activities
 - 🧠 **Smart Blueprints** — AI-generated study/learning plans with beginner & intermediate levels
 - 📝 **Session Notes** — AI-backed suggestions to help you summarize and reflect on work
-- 🔌 **Pluggable Architecture** — The backend supports swappable AI adapters; a `NoOp` fallback is included
 
 ---
 
