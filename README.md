@@ -59,9 +59,7 @@ A **cross-platform social-media web application** for developers to connect, col
 ### [Eventure](https://github.com/genandoy-hannahlorainne/OOP_Eventure.git)
 A modern event management system designed to streamline all aspects of the event lifecycle—from registration and planning to monitoring and notifications.
 
-### [StudentCare+ (PDMHS Medical Record System)](https://github.com/DEVHIVE-PROJECT-S/devhive-infoman)
-A comprehensive **Student Medical Record System** web application for Paco Del Monte High School, featuring QR-based health passports, tiered emergency notifications, and multi-role dashboards.  
-🔗 **Live Demo:** [devhivepupt.great-site.net](https://devhivepupt.great-site.net/)
+### [PDMHS Student Medical Record System](https://github.com/DEVHIVE-PROJECT-S/devhive-infoman)  - a **Student Medical Record System web application for PDMHS**, visit the site by clicking [here](https://devhivepupt.great-site.net/)
 
 ---
 
