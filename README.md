@@ -2,8 +2,6 @@
 
 🏫 **DIT (Diploma in Information Technology)** student at **Polytechnic University of the Philippines-Taguig**
 
-💻 Passionate about **full-stack development**, **healthcare tech**, and **event management systems**
-
 💡 Always open to learning, collaborating, and working on exciting projects!
 
 📫 Let's connect and build something amazing together!
@@ -91,11 +89,11 @@ A comprehensive **Student Medical Record System** web application for Paco Del M
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=genandoy-hannahlorainne&theme=radical&no-frame=true&no-bg=true&margin-w=4&title_color=9f82ce)
+[![Hannah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=genandoy-hannahlorainne&bg_color=0d1117&color=9f82ce&line=9f82ce&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
