@@ -67,11 +67,11 @@ A modern event management system designed to streamline all aspects of the event
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=genandoy-hannahlorainne&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9f82ce&text_color=ffffff&icon_color=9f82ce)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=genandoy-hannahlorainne&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9f82ce&text_color=ffffff&icon_color=9f82ce"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=genandoy-hannahlorainne&theme=radical&hide_border=true&background=0d1117&ring=9f82ce&fire=9f82ce&currStreakLabel=9f82ce)
+<img height="180em" src="https://streak-stats.demolab.com?user=genandoy-hannahlorainne&theme=radical&hide_border=true&background=0d1117&ring=9f82ce&fire=9f82ce&currStreakLabel=9f82ce"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=genandoy-hannahlorainne&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=9f82ce&text_color=ffffff)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genandoy-hannahlorainne&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=9f82ce&text_color=ffffff"/>
 
 </div>
 
